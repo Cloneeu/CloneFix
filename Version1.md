@@ -156,4 +156,4 @@ console.log("@@@ Version 1")
 ## Navegacion
 
 - ✔️ [Home](README.md)
-- ✔️ [Version2](Version2.md)
+- ✔️ [Siguiente version](Version2.md)

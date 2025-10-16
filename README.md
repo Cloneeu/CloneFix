@@ -42,3 +42,4 @@ CloneFix/
 
 - ✔️ [Creacion del Proyecto, version 1](Version1.md)
 - ✔️ [Conexion a la API de TVMaze, version 2](Version2.md)
+- ✔️ [Display de Peliculas y Descripciones, version 3](Version3.md)
